@@ -1,0 +1,119 @@
+.ProductsCarts_layout{
+    position: relative;
+    height: 5.53vw;
+    width: 718px;
+    /* border: 2px solid green; */
+    margin-bottom: 14px;
+}
+.Products1_img1{
+position: absolute;
+width: 4.11vw;
+left: 0px;
+top: 1px;
+border-radius: 3px;
+}
+.Products1_img2{
+    position: absolute;
+width: .7vw;
+left: 3.7vw;
+top: -2px;
+
+}
+.Products1_img3{
+    position: absolute;
+width: 3.3vw;
+/* height: 15px; */
+left: 24vw;
+top: 2.09vw;
+
+}
+.Products1_text1{
+    position: absolute;    
+    left: 4.5vw;
+    top: 8.2px;
+    
+    font-family: 'Josefin Sans';
+    font-size: .9vw;
+    line-height: 1vw;
+    
+    color: #000000;
+}
+.Products1_text2{
+    position: absolute;
+  
+    left: 4.5vw;
+    top: 1.96vw;
+    
+    font-family: 'Josefin Sans';
+    font-size: .78vw;
+    line-height: .9vw;
+    
+    color: #A1A8C1;
+    
+}
+.Products1_text3{
+    position: absolute;
+
+    left: 7vw;
+    top: 1.90vw;
+    
+    font-family: 'Josefin Sans';
+    font-size: .9vw;
+    line-height: 1vw;
+    
+    color: #A1A8C1;
+}
+.Products1_text4{
+    position: absolute;
+    left: 4.5vw;
+    top:3.33vw;
+    
+    font-family: 'Josefin Sans';
+    font-size: .78vw;
+    line-height: .9vw;
+    
+    color: #A1A8C1;
+}
+.Products1_text5{
+    position: absolute;
+    left: 6.4vw;
+    top: 3.26vw;
+    
+    font-family: 'Josefin Sans';
+    font-size: .9vw;
+    line-height: 1vw;
+    
+    color: #A1A8C1;
+    
+}
+.Products1_text6{
+    position: absolute;
+    left: 15.2vw;
+    top: 2.09vw;
+    
+    font-family: 'Josefin Sans';
+    font-size: .9vw;
+    line-height: 1vw;
+    
+    color: #15245E;
+}
+.Products1_text7{
+    position: absolute;
+    left: 34.5vw;
+    top:2.03vw;
+    
+    font-family: 'Josefin Sans';
+    font-size: .9vw;
+    line-height: 1vw;
+    
+    color: #15245E;
+}
+.Products1_line1{
+    position: absolute;
+/* width: 718px; */
+height: 0px;
+left: 0px;
+top: 5.54vw;
+
+border: 1px solid #E1E1E4;
+}

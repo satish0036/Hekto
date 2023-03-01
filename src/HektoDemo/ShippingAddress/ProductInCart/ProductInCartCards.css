@@ -1,0 +1,103 @@
+.ProductInCartCards_layout {
+    position: relative;
+    width: 100%;
+    height: 95%;
+    margin-bottom: .91vw;
+    /* border: 2px solid greenyellow; */
+}
+
+.ProductInCart1_img1 {
+    position: relative;
+    width: 30%;
+    height: 85%;
+    left: 0px;
+    top: 0px;
+    background-image: none;
+    border-radius: 3px;
+    background-size: cover;
+}
+
+.ProductInCart1_text1 {
+    position: absolute;
+
+    left: 34%;
+    top: .65vw;
+    font-family: 'Josefin Sans';
+    font-size: 1vw;
+    line-height: 1.5vw;
+    color: #000000;
+}
+
+.ProductInCart1_text2 {
+    position: absolute;
+    left: 34%;
+    top: 2.08vw;
+
+    font-family: 'Josefin Sans';
+    font-size: .8vw;
+    line-height: 1.0vw;
+
+    color: #A1A8C1;
+
+}
+
+.ProductInCart1_text3 {
+    position: absolute;
+    left: 47%;
+    top: 2.08vw;
+
+    font-family: 'Josefin Sans';
+    font-size: .8vw;
+    line-height: 1.0vw;
+
+
+    color: #A1A8C1;
+
+}
+
+.ProductInCart1_text4 {
+    position: absolute;
+    left: 34%;
+    top: 3.45vw;
+
+    font-family: 'Josefin Sans';
+    font-size: .8vw;
+    line-height: 1.0vw;
+
+    color: #A1A8C1;
+}
+
+.ProductInCart1_text5 {
+
+    position: absolute;
+    left: 45%;
+    top: 3.45vw;
+
+    font-family: 'Josefin Sans';
+    font-size: .8vw;
+    line-height: 1.0vw;
+
+    color: #A1A8C1;
+
+}
+
+.ProductInCart1_text6 {
+    position: absolute;
+    left: 84%;
+    top: 2.34vw;
+
+    font-family: 'Josefin Sans';
+    font-size: 1vw;
+    line-height: 1.0vw;
+    align-items: center;
+    color: #15245E;
+
+}
+
+.ProductInCart1_line1 {
+    position: absolute;
+    width: 100%;
+    top: 6.53vw;
+
+    border: .01vw solid #898990;
+}

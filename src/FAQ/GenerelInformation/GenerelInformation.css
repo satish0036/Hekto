@@ -1,0 +1,201 @@
+.FAQ_page_layout{
+  position: relative;
+  width: 100%;
+  height: 48.04vw;
+  display: flex;
+  justify-content: center;
+  /* border: 2px solid rgb(222, 17, 130); */
+  margin: 123px 0px 50px 0px;
+  gap: 2vw;
+}
+.GenerelInformation_layout{
+  position: relative;
+  width: 37%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* border: 2px solid blue; */
+  gap: 2.6vw;
+ 
+  
+}
+.AskQuestion_layout{
+  position: relative;
+  width: 37%;
+  height: 100%;
+  
+  /* border: 2px solid rgb(17, 227, 63); */
+ 
+  
+}
+
+.GenerelInformation_text1 {
+  position: relative;
+  top: 0px;
+  font-family: "Josefin Sans";
+  font-size:2vw;
+  line-height: 1.95vw;
+  color: #1d3178;
+}
+.GenerelInformation_text2 {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size:1vw;
+  line-height: 1.95vw;
+  color: #1d3178;
+}
+.GenerelInformation_text3 {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size:1vw;
+  line-height: 1.95vw;
+  color: #a1abcc;
+}
+.GenerelInformation_text4 {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size:1vw;
+  line-height: 1.95vw;
+  color: #1d3178;
+}
+.GenerelInformation_text5 {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size:1vw;
+  line-height: 1.95vw;
+  color: #a1abcc;
+}
+.GenerelInformation_text6 {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size:1vw;
+  line-height: 1.95vw;
+  color: #1d3178;
+}
+.GenerelInformation_text7 {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size:1vw;
+  line-height: 1.95vw;
+  color: #a1abcc;
+}
+.GenerelInformation_text8 {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size:1vw;
+  line-height: 1.95vw;
+  color: #1d3178;
+}
+.GenerelInformation_text9 {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size:1vw;
+  line-height: 1.95vw;
+  color: #a1abcc;
+}
+/* ************************************AskQuestion******************************** */
+.AskQuestion_box1 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+
+  background: #f8f8fd;
+  /* border: 2px solid rgb(110, 59, 59); */
+}
+.AskQuestion_text1 {
+  position: absolute;
+  left: 2.7vw;
+  top: 6.29vw;
+
+  font-family: "Josefin Sans";
+  font-size:2vw;
+  line-height: 1.95vw;
+  text-align: center;
+
+  color: #1d3178;
+  /* border: 2px solid red; */
+}
+.AskQuestion_box2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 80%;
+  left: 8%;
+  height: 3.4vw;
+  
+  top: 13.67vw;
+  background: #ffffff;
+  border: 1px solid #cdcedc;
+  border-radius: 5px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size:1vw;
+  line-height: 1.95vw;
+ 
+  
+}
+
+.AskQuestion_box3 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 80%;
+  left: 8%;
+  height: 3.4vw;
+  top: 19.2vw;
+  background: #ffffff;
+  border: 1px solid #cdcedc;
+  border-radius: 5px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size:1vw;
+  line-height: 1.95vw;
+   color: #8990b1;
+}
+
+.AskQuestion_box4 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 80%;
+  left: 8%;
+  height: 10.4vw;
+  top: 25.3vw;
+
+  background: #ffffff;
+  border: 1px solid #cdcedc;
+  border-radius: 5px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size:1vw;
+  line-height: 1.95vw;
+  color: #8990b1;
+}
+
+.AskQuestion_box5 {
+  position: absolute;
+  width: 25.2%;
+  height: 3vw;
+  left: 8%;
+  top: 40.88vw;
+  border: none;
+  background: #fb2e86;
+  border-radius: 3px;
+  font-family: "Josefin Sans";
+  font-size:1vw;
+  line-height: 1.95vw;
+    color: #ffffff;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

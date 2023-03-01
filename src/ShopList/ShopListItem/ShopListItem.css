@@ -1,0 +1,29 @@
+.ShopListItem_layout{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  /* border: 2px solid greenyellow; */
+}
+.ShopListItem {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto;
+  width: 60%;
+  height: 100%;
+  overflow: hidden;  
+  gap: 1.5vw;
+  /* border: 2px solid red; */
+}
+@media screen and (max-device-width:640px), screen and (max-width:640px)  {
+  .ShopListItem {
+    position: relative;
+  display: grid;
+  grid-template-columns: auto;
+  left: 0px;
+  /* top: 673.6695556640625px; */
+  width: 80%;
+  height: auto;
+  overflow: scroll;
+  }
+}

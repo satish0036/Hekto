@@ -1,0 +1,50 @@
+.LeatestBlogCard_layout{
+    position: relative;
+    /* border: 2px solid red; */
+    height: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  margin-top: 6vw;
+}
+.LeatestBlogCard_name{
+    font-family: 'Josefin Sans';
+font-size: 2.6vw;
+line-height: 3vw;
+color: #151875;
+
+}
+.LeatestBlogCard{
+    position: relative;
+    margin-top: 5vw;
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid rgb(165, 89, 227); */
+    height: auto;
+    width: 60%;
+    gap: 1vw;
+}
+/* @media screen and (max-device-width:640px), screen and (max-width:640px)  {
+    .LeatestBlogCard_layout{
+        position: relative;
+        
+        height: 1988px;
+        left: 20px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  } */
+/* @media screen and (max-device-width:640px), screen and (max-width:640px)  {
+    .LeatestBlogCard{
+        position: relative;
+        top: 40px;
+        
+        display: flex;
+        flex-direction: column;
+    }
+  } */

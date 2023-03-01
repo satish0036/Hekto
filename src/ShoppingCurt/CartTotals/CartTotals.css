@@ -1,0 +1,264 @@
+
+.CartTotalsLayout{
+    position: absolute;
+    width: 20%;
+    left: 60%;
+    top: 34vw;
+    height: 22.13vw;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* border: 2px solid rgb(30, 30, 30); */
+    gap: 2.7vw;
+}
+
+.CartTotals_text1 {
+    position: relative;
+    font-family: 'Josefin Sans';
+    font-size: 1.3vw;
+    line-height: 1.5vw;
+    color: #1D3178;
+}
+
+.CartTotals_box1 {
+    position: relative;
+    width: 100%;
+    height: 18.4vw;
+    /* border: 2px solid red; */
+    background: #F4F4FC;
+    border-radius: 3px;
+}
+
+.SubtotalsPrice{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2.21vw 1.49vw .84vw ;
+}
+.CartTotals_box1_text1 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.2vw;
+    line-height: 1.8vw;
+    color: #1D3178;
+}
+
+.CartTotals_box1_text2 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 1.8vw;
+    color: #15245E;
+}
+
+.CartTotals_box1_line1 {
+    position: relative;
+    width: 80%;
+    height: 0px;
+    border: 1px solid #E8E6F1;
+    margin: 0% 10%;
+}
+.TotalPrice{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2.21vw 1.49vw .84vw ;
+}
+
+.CartTotals_box1_text3 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.2vw;
+    line-height: 1.8vw;
+    color: #1D3178;
+}
+
+.CartTotals_box1_text4 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 1.8vw;
+    color: #15245E;
+}
+
+.CartTotals_box1_line2 {
+    position: relative;
+    width: 80%;
+    height: 0px;
+    border: 1px solid #E8E6F1;
+    margin: 0% 10%;
+}
+.checkbox_line{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 1.75vw 1.49vw;
+    gap: .03vw;
+}
+.CartTotals_box1_check {
+    position: relative;
+    width: .65vw;
+    /* height: 10px; */
+    /* border-radius: 5px; */
+}
+
+.CartTotals_box1_text5 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: .8vw;
+    line-height: 1vw;
+
+    color: #8A91AB;
+}
+
+.CartTotals_Proceed{
+    position: relative;
+    width: 80%;
+    height: 2.20vw;
+    background: #19D16F;
+    border-radius: 3px;
+    margin: .32vw 1.49vw;
+    border: none;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: .8vw;
+    line-height: 1.2vw;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+.CalculateShoppingLayout{
+    position: absolute;
+    width: 20%;
+    left: 60%;
+    top: 59.2vw;
+    height: 17.52vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+}
+.CartTotals_text2 {
+    position: relative;
+   
+
+
+    font-family: 'Josefin Sans';
+    font-size: 1.3vw;
+    line-height: 1.5vw;
+
+    color: #1D3178;
+  
+
+}
+
+.CartTotals_box2 {
+
+    position: relative;
+    width: 100%;
+    height: 18.48vw;
+   
+    background: #F4F4FC;
+    border-radius: 3px;
+}
+
+.CartTotals_box2_text1 {
+    position: relative;
+    font-family: 'Josefin Sans';
+    font-size: .91vw;
+    line-height: 1vw;
+    color: #C5CBE3;
+    border: none;
+    background: none;
+    margin-top: 2.6vw;
+    margin-left: 2vw;
+
+}
+
+.CartTotals_box2_line1 {
+    position: relative;
+    width: 80%;
+    height: 0px;
+    border: 1px solid #C7CEE4;
+    margin-top: .52vw;
+    margin:0vw 2vw;
+}
+
+.CartTotals_box2_line2 {
+    position: relative;
+    width: 80%;
+    height: 0px;
+    margin-top: .52vw;
+    border: 1px solid #C7CEE4;
+    margin:0px 2vw;
+}
+
+.CartTotals_box2_text2 {
+    position: relative;
+    font-family: 'Josefin Sans';
+    font-size: .9vw;
+    line-height: 1vw;
+    color: #C5CBE3;
+    border: none;
+    background: none;
+    margin-top: 35px;
+    margin-left: 32px;
+}
+
+.CartTotals_box2_line3 {
+    position: relative;
+    width: 80%;
+    height: 0px;
+    margin-top: .52vw;
+    border: 1px solid #C7CEE4;
+     margin:0px 2vw;
+}
+
+.CartTotals_box2_text3 {
+    position: relative;
+    font-family: 'Josefin Sans';
+    font-size: .9vw;
+    line-height: 1vw;
+    color: #C5CBE3;
+    border: none;
+    background: none;
+    margin-top: 2.27vw;
+    margin-left: 2.08vw;
+}
+
+.CartTotals_box2_rec {
+    position: relative;
+    width: 11.65vw;
+    height: 2.6vw;
+   
+    background: #FB2E86;
+    border-radius: 2px;
+    font-family: 'Josefin Sans';
+    font-size: 1vw;
+    line-height: 1.2vw;
+    color: #FFFFFF;
+    cursor: pointer;
+    border: none;
+    margin-top: 1.95vw;
+    margin-left: 2.08vw;
+}
+

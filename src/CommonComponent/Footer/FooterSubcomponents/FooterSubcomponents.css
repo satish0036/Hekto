@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+.footer_ser {
+  left: -0.8rem;
+  color: white !important;
+  background-color: #fb2e86 !important;
+  border: none !important;
+  border-radius: 3px !important;
+  padding: 0px 22px;
+}
+.text-center {
+  background-color: #eeeffb;
+}
+.Catagories {
+  font-family: "Josefin Sans" !important;
+  font-size: 22px;
+  line-height: 26px;
+
+  color: #000000;
+}
+.Catagories_color {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  /* sub text color */
+
+  color: #8a8fb9 !important;
+  text-decoration: none;
+}
+.hekto {
+  font-family: "Josefin Sans" !important;
+  font-size: 38px !important;
+  line-height: 45px !important;
+
+  color: #000000 !important;
+}
+.form-control {
+  left: -0.8rem;
+}
+
+.ppp {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #9da0ae;
+}

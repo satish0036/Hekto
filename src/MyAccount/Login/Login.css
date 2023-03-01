@@ -1,0 +1,115 @@
+.Login_layout{
+  position: relative;
+ 
+  width: 100%;
+  margin: 0px 0px;
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Login_box1 {
+  position: relative;
+  width: 35%;
+  height: 100%;
+  background: #ffffff;
+  box-shadow: 0px 0px 25px 10px #f8f8fb;
+  /* border: 2px solid rgb(82, 242, 46); */
+  margin: 6% 0%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 1.62vw;
+  background: #FFFFFF;
+box-shadow: 0px 0px 25px 10px #F8F8FB;
+}
+.Login_text1 {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size: 2vw;
+  line-height: 2vw;
+
+  color: #000000;
+  margin-top: 35px;
+}
+.Login_text2 {
+  position: relative;
+   font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1vw;
+  line-height: 1.2vw;
+ 
+
+  color: #9096b2;
+}
+.Login_box2 {
+  position: relative;
+  box-sizing: border-box;
+  width: 80%;
+  height: 3.2vw;
+  padding-left: 11px;
+  font-size: 1vw;
+  background: #ffffff;
+  border: 1px solid #c2c5e1;
+  border-radius: 2px;
+}
+
+.Login_box3 {
+  position: relative;
+  box-sizing: border-box;
+  width: 80%;
+  height: 3.2vw;
+  font-size: 1vw;
+  padding-left: 11px;
+  background: #ffffff;
+  border: 1px solid #c2c5e1;
+  border-radius: 2px;
+}
+
+.Login_text5 {
+  position: relative;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1vw;
+  line-height: 1.2vw;
+  background-color: none;
+  background: none;
+  color: #9096b2;
+  border: none;
+  cursor: pointer;
+}
+.Login_box4 {
+  position: relative;
+  width: 80%;
+  height: 3vw;
+  background: #fb2e86;
+  border-radius: 3px;
+  color: #ffffff;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1vw;
+  line-height: 1.2vw;
+  border: none;
+  cursor: pointer;
+  
+}
+
+.Login_text7 {
+  position: relative;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1vw;
+  line-height: 1.2vw;
+  background-color: none;
+  background: none;
+  color: #9096b2;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 50px;
+}
+

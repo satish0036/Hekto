@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1, 
+        "productimg": "./Image/Home/WhatShopexOffer/free-delivery1.png",
+        "name":"24/7 Support",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa purus gravida."   
+    },
+    {
+        "id": 2, 
+        "productimg": "./Image/Home/WhatShopexOffer/cashback1.png",
+        "name":"24/7 Support",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa purus gravida."   
+    },
+    {
+        "id": 3, 
+        "productimg": "./Image/Home/WhatShopexOffer/Group.png",
+        "name":"24/7 Support",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa purus gravida."   
+    },
+    {
+        "id": 4, 
+        "productimg": "./Image/Home/WhatShopexOffer/24-hours-support1.png",
+        "name":"24/7 Support",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa purus gravida."   
+    }
+]

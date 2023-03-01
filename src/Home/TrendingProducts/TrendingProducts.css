@@ -1,0 +1,208 @@
+.TrendingProducts_layout{
+  position: relative;
+  
+  height: auto;
+  width: 100%;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 8.75vw;
+}
+.trending_products {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size: 2.6vw;
+  line-height: 3.1vw;
+  color: #151875;
+}
+.trending_products_cart{
+  position: relative;
+  width: 60%;
+  height: 19.4vw;
+  /* border: 2px solid red; */
+  margin-top: 2vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+.trending_products_cart_box{
+  position: relative;
+  width: 23.5%;
+  height: 100%;
+  /* border: 2px solid rgb(95, 226, 14); */
+  background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+  padding: .4vw;
+}
+.trending_products_cart_box_img{
+  position: relative;
+width: 100%;
+height: 65%;
+/* border: 2px solid red; */
+background: #F5F6F8;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.trending_product1_img1 {
+  position: relative;
+  width: 70%;
+  height: 80%;
+  /* border: 2px solid rgb(163, 112, 112); */
+}
+.trending_products_cart_box_name{
+  position: relative;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 1vw;
+line-height: 1.7vw;
+text-align: center;
+color: #151875;
+margin-top: 1vw;
+}
+.trending_products_cart_box_price{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  gap: 1vw;
+}
+.trending_products_price1{
+  
+position: relative;
+font-family: 'Josefin Sans';
+font-size: .7vw;
+line-height: 1vw;
+text-align: center;
+color: #151875;
+}
+.trending_products_price2{
+  position: relative;
+font-family: 'Josefin Sans';
+font-size: .7vw;
+line-height: 1vw;
+text-align: center;
+text-decoration-line: line-through;
+
+color: rgba(21, 24, 117, 0.3);
+}
+
+
+.trending_product1 {
+  position: absolute;
+  width: 270px;
+  height: 350px;
+  left: 377px;
+  top: 3873px;
+  background: linear-gradient(0deg, #ffffff, #ffffff), #ffffff;
+  /* border: 2px solid gray; */
+  filter: drop-shadow(0px 8px 40px rgba(49, 32, 138, 0.05));
+}
+.trending_product1_box_for_img {
+  position: absolute;
+  left: 4.07%;
+  right: 4.44%;
+  top: 3.14%;
+  bottom: 27.14%;
+
+  background: #f5f6f8;
+}
+
+.trending_product1_name {
+  position: absolute;
+  left: 29.26%;
+  right: 29.26%;
+  top: 77.14%;
+  bottom: 15.43%;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 160% */
+
+  text-align: center;
+
+  /* Text */
+
+  color: #151875;
+}
+.trending_product1_price {
+  position: absolute;
+  left: 33.7%;
+  right: 50.37%;
+  top: 86.86%;
+  bottom: 9.14%;
+
+  /* Caption\ */
+
+  font-family: "Josefin Sans";
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+
+  /* Text */
+
+  color: #151875;
+}
+.trending_product1_mrp {
+  position: absolute;
+  left: 54.07%;
+  right: 32.22%;
+  top: 87.14%;
+  bottom: 9.43%;
+
+  /* price cut */
+
+  font-family: "Josefin Sans";
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  text-decoration-line: line-through;
+
+  color: rgba(21, 24, 117, 0.3);
+}
+.trending_product2 {
+  position: absolute;
+  width: 270px;
+  height: 350px;
+  left: 676px;
+  top: 3873px;
+  /* border: 2px solid gray; */
+  background: linear-gradient(0deg, #ffffff, #ffffff), #ffffff;
+  filter: drop-shadow(0px 8px 40px rgba(49, 32, 138, 0.05));
+}
+.trending_product3 {
+  position: absolute;
+  width: 270px;
+  height: 350px;
+  left: 975px;
+  top: 3873px;
+  /* border: 2px solid gray; */
+  background: linear-gradient(0deg, #ffffff, #ffffff), #ffffff;
+  filter: drop-shadow(0px 8px 40px rgba(49, 32, 138, 0.05));
+}
+.trending_product4 {
+  position: absolute;
+  width: 270px;
+  height: 350px;
+  left: 1274px;
+  top: 3873px;
+  /* border: 2px solid gray; */
+  background: linear-gradient(0deg, #ffffff, #ffffff), #ffffff;
+  filter: drop-shadow(0px 8px 40px rgba(49, 32, 138, 0.05));
+}
+.trending_product1_img4 {
+  position: absolute;
+  left: 0%;
+  right: -2.43%;
+  top: 6.15%;
+  bottom: 7.38%;
+}

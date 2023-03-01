@@ -1,0 +1,70 @@
+.Rectangle115_text1 {
+  position: relative;
+  width: 100%;
+  margin: 3px 0px;
+  /* border: 2px solid rebeccapurple; */
+  background: #f6f5ff;
+  display: flex;
+
+}
+
+.Rectangle115_text2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  left: 12vw;
+  /* border: 2px solid red; */
+  margin: 7vw;
+}
+.Rectangle115_page_name {
+  font-family: 'Josefin Sans';
+  font-size:2.2vw;
+  line-height: 2.5vw;
+  color: #101750;
+}
+@media screen and (max-device-width:640px), screen and (max-width:640px)  {
+  .Rectangle115_page_name {
+    font-family: 'Josefin Sans';
+    font-size:2.8vw;
+    line-height: 3vw;
+    color: #101750;
+  }
+}
+
+.Rectangle115_text3 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  font-size:1vw;
+  line-height: 1.2;
+}
+@media screen and (max-device-width:640px), screen and (max-width:640px)  {
+  .Rectangle115_text3 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    font-size:2.3vw;
+    line-height: 3.3vw;
+  }
+}
+
+
+
+.Rectangle115_home {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 500;
+ 
+  text-align: center;
+
+  color: #000000;
+}
+
+.Rectangle115_page_name2 {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 500;
+
+  text-align: center;
+  color: #FB2E86;
+}

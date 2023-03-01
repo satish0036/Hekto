@@ -1,0 +1,99 @@
+.Products_layout {
+    position: relative;
+    height: auto;
+    width: 38%;
+    left: 19.5%;
+    /* border: 2px solid red; */
+    margin: 8.52vw 0px;
+}
+
+.AllProducts {
+    position: relative;
+    width: 100%;
+    height: auto;
+    /* border: 2px solid rgb(23, 14, 14); */
+    overflow: hidden;
+}
+.PPQT{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 48px;
+    /* margin-left:  100px; */
+   
+}
+
+.Products_text1 {
+    position: relative;
+    font-family: 'Josefin Sans';
+    font-size: 1.3vw;
+    line-height: 1.49vw;
+
+    color: #1D3178;
+}
+
+.Products_text2 {
+    position: relative;
+    font-family: 'Josefin Sans';
+    font-size: 1.3vw;
+    line-height: 1.49vw;
+
+    color: #1D3178;
+
+}
+
+.Products_text3 {
+    position: relative;
+    font-family: 'Josefin Sans';
+    font-size: 1.3vw;
+    line-height: 1.49vw;
+
+    color: #1D3178;
+}
+
+.Products_text4 {
+    position: relative;
+
+    font-family: 'Josefin Sans';
+    font-size: 1.3vw;
+    line-height: 1.49vw;
+
+    color: #1D3178;
+}
+
+
+
+
+.Products_rec1 {
+    position: relative;
+    width: 8.72vw;
+    height: 2.5vw;
+    
+
+    background: #FB2E86;
+    border-radius: 2px;
+    font-family: 'Josefin Sans';
+    font-size: 1vw;
+    line-height: 1.2vw;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    margin-top: 3vw;
+}
+
+.Products_rec2 {
+    position: relative;
+    width: 8.72vw;
+    height: 2.5vw;
+    left: 20.3vw;
+   margin-top: 3vw;
+
+    background: #FB2E86;
+    border-radius: 2px;
+    font-family: 'Josefin Sans';
+    font-size: 1vw;
+    line-height: 1.2vw;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif ;
+  /* text-align: center; */
+  
+}
+@import url("https://fonts.googleapis.com/css2?family=Josefin Sans:ital,wght@0,400;1,700&display=swap");
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+.react-multi-carousel-dot--active button {
+  width: 24px;
+  height: 4px;
+  border-radius: 0px;
+  background: #FB2E86;
+  /* border: 2px solid #FB2E86; */
+}
+.react-multi-carousel-dot button{
+  width: 24px;
+  height: 4px;
+  border-radius: 0px;
+  /* background: #FB2E86; */
+  border: 3px solid #FB2E86;
+}

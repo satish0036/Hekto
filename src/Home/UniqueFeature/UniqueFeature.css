@@ -1,0 +1,188 @@
+.unique_feature {
+  position: relative;
+  width: 100%;
+  height: 33vw;
+  left: 5px;
+  background: #f1f0ff;
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  margin-top: 8vw;
+}
+.unique_feature_box {
+  position: relative;
+  width: 1050px;
+  height: 100%;
+  /* left: 434px; */
+  /* top: 15px; */
+  /* border: 2px solid palevioletred; */
+}
+.unique_feature_img1 {
+  position: absolute;
+  width: 30vw;
+  left: -0.86%;
+  right: 55.05%;
+  top: 3.89%;
+  bottom: 14.36%;
+
+  /* background: #F5E1FC; */
+}
+.unique_feature_img2 {
+  position: absolute;
+  width: 30vw;
+  left: 3.81%;
+  right: 47.71%;
+  top: 0%;
+  bottom: 0%;
+}
+.unique_feature_img3 {
+  position: absolute;
+  height: .6vw;
+  left: 51.71%;
+  top: 38%; 
+  border-radius: 0px;
+  /* border: 2px solid red; */
+}
+.unique_feature_img4 {
+  position: absolute;
+  height: .6vw;
+  left: 51.71%;
+  top: 44.73%;
+ 
+}
+.unique_feature_img5 {
+  position: absolute;
+  height: .6vw;
+  left: 51.71%;
+  right: 47.24%;
+  top: 56.73%;
+  bottom: 41.27%;
+
+  /* background: #2BF5CC; */
+}
+.unique_feature_text1 {
+  position: absolute;
+  left: 51.71%;
+  right: 0%;
+  top: 14.91%;
+  bottom: 68.36%;
+
+  font-family: "Josefin Sans";
+  font-size: 2vw;
+  line-height: 3vw;
+  /* or 46px */
+
+  letter-spacing: 0.015em;
+
+  /* Text */
+
+  color: #151875;
+}
+.unique_feature_text2 {
+  position: absolute;
+  left: 53.9%;
+  right: 5.43%;
+  top: 36.91%;
+  bottom: 59.27%;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1vw;
+  line-height: 1.4vw;
+  /* or 21px */
+
+  letter-spacing: 0.015em;
+
+  color: #acabc3;
+}
+.unique_feature_text3 {
+  position: absolute;
+  left: 53.9%;
+  right: 2.19%;
+  top: 43.09%;
+  bottom: 46.73%;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1vw;
+  line-height: 1.3vw;
+  /* or 28px */
+
+  letter-spacing: 0.015em;
+
+  color: #acabc3;
+}
+.unique_feature_text4 {
+  position: absolute;
+  left: 53.9%;
+  right: 12.57%;
+  top: 55.64%;
+  bottom: 40.55%;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1vw;
+  line-height: 1.3vw;
+  /* or 21px */
+
+  letter-spacing: 0.015em;
+
+  color: #acabc3;
+}
+.unique_feature_cart_box {
+  position: absolute;
+  left: 51.71%;
+  right: 33.33%;
+  top: 66.36%;
+  bottom: 25.45%;
+
+  /* Accent */
+
+  background: #fb2e86;
+  border-radius: 2px;
+  font-family: "Josefin Sans";
+  font-size: 1vw;
+  line-height: 1.3vw;
+  letter-spacing: 0.02em;
+
+  color: #ffffff;
+  border: none;
+}
+
+.unique_feature_text6 {
+  position: absolute;
+  left: 68.48%;
+  right: 20.76%;
+  top: 67.45%;
+  bottom: 30%;
+
+  font-family: "Josefin Sans";
+  font-size: .9vw;
+  line-height: 1vw;
+  letter-spacing: 0.02em;
+
+  /* Text */
+
+  color: #151875;
+}
+.unique_feature_text7 {
+  position: absolute;
+  left: 68.48%;
+  right: 27.33%;
+  top: 70.55%;
+  bottom: 26.36%;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: .9vw;
+  line-height: 1.1vw;
+  /* identical to box height */
+
+  /* Text */
+
+  color: #151875;
+}

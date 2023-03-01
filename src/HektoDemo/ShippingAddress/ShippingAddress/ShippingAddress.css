@@ -1,0 +1,287 @@
+.ShippingAddress_layout {
+    position:relative;
+    width: 40.5%;
+    height: 74.29vw;
+    /* border: 2px solid red; */
+    left: 19.7%;
+    margin-top: 4.5vw;
+    display: flex;
+    flex-direction: column;
+    gap: 1.30vw;
+}
+@media screen and (max-device-width:640px), screen and (max-width:640px)  {
+    .ShippingAddress_layout {
+        position:relative;
+        width: 50%;
+        height: auto;
+        /* border: 2px solid red; */
+        left:20%;
+        margin-top: 74px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+  }
+
+.ShippingAddress_text1 {
+    position: relative;
+    font-family: 'Josefin Sans';
+    font-size: 2vw;
+    line-height: 2.5vw;
+
+    color: #1D3178;
+}
+
+.ShippingAddress_text2 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 1.2vw;
+
+    color: #1D3178;
+}
+
+.ShippingAddress_box1 {
+    position: relative;
+    width: 100%;
+    /* height: 12000px; */
+
+
+    background: #F8F8FD;
+    border-radius: 3px;
+    /* border: 2px solid rgb(0, 0, 0); */
+}
+
+.ContactInformation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2.6vw 1.6vw 1.95vw 1.6vw;
+}
+
+.ShippingAddress_box1_text1 {
+    position: relative;
+    font-family: 'Josefin Sans';
+    font-size: 1.2vw;
+    line-height: 1.5vw;
+
+    color: #1D3178;
+}
+
+.ShippingAddress_box1_text2 {
+    position: relative;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: .91vw;
+    line-height: 1.1vw;
+    border: none;
+    background: none;
+    letter-spacing: 0.01em;
+    color: #C1C8E1;
+    cursor: pointer;
+
+}
+
+.ShippingAddress_box1_text3 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1vw;
+    line-height: 1.2vw;
+    border: none;
+    background: none;
+    margin-left: 1.62vw;
+    letter-spacing: 0.02em;
+    color: #C1C8E1;
+
+}
+
+.ShippingAddress_box1_line1 {
+    position: relative;
+    width: 80%;
+    margin-left: 1.62vw;
+    border: .7px solid #C1C8E1;
+}
+.checkbox_Line{
+    display: flex;
+    flex-direction: row;
+align-items: center;
+    margin-top: 2vw;
+    margin-left: 1.62vw;
+    gap: .3vw;
+}
+
+.ShippingAddress_box1_check {
+    position: relative;
+    width: .5vw;
+    /* height: 8px; */
+    
+}
+
+.ShippingAddress_box1_text4 {
+    position: relative;
+   
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1vw;
+    line-height: 1vw;
+    letter-spacing: 0.02em;
+
+    color: #8A91AB;
+
+}
+
+.ShippingAddress_box1_text5 {
+    position: relative;
+    font-family: 'Josefin Sans';
+    font-size: 1.5vw;
+    line-height: 1.7vw;
+    margin-top: 3.8vw;
+    margin-left: 1.62vw;
+    color: #1D3178;
+}
+.FirstLastName{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:2.7vw 1.62vw 0px 1.62vw;
+}
+.FName{
+    display: flex;
+    flex-direction: column;
+}
+
+.ShippingAddress_box1_text6 {
+    position: relative;
+  
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 1.5vw;
+    border: none;
+    background: none;
+    color: #C1C8E1;
+
+}
+
+.ShippingAddress_box1_text7 {
+    position: relative;
+  
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 1.5vw;
+    border: none;
+    background: none;
+    color: #C1C8E1;
+
+}
+
+.ShippingAddress_box1_line2 {
+    position: relative;
+    width: 100%;
+    height: 0px;
+
+    border: .7px solid #C1C8E1;
+}
+
+.ShippingAddress_box1_line3 {
+    position: relative;
+    width: 100%;
+    height: 0px;
+
+    border: .7px solid #C1C8E1;
+}
+
+.ShippingAddress_box1_text8 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 1.5vw;
+    border: none;
+    background: none;
+    color: #C1C8E1;
+    margin-top: 2vw;
+    margin-left: 1.62vw;
+
+}
+
+.ShippingAddress_box1_line4 {
+    position: relative;
+    width: 80%;
+    margin-left: 1.62vw;
+    border: 0.7px solid #C1C8E1;
+    /* margin-top: 32px; */
+}
+
+.ShippingAddress_box1_text9 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 1.5vw;
+    border: none;
+    background: none;
+    color: #C1C8E1;
+    margin-top: 2vw;
+    margin-left: 1.62vw;
+}
+
+.ShippingAddress_box1_line5 {
+    position: relative;
+    width: 80%;
+    margin-left: 1.62vw;
+    border: 0.7px solid #C1C8E1;
+    /* margin-top: 32px; */
+}
+
+.ShippingAddress_box1_text10 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 1.5vw;
+    border: none;
+    background: none;
+    color: #C1C8E1;
+    margin-top: 2vw;
+    margin-left: 1.62vw;
+
+}
+
+.ShippingAddress_box1_line6 {
+    position: relative;
+    width: 80%;
+    margin-left: 1.62vw;
+    border: 0.7px solid #C1C8E1;
+    /* margin-top: 32px; */
+}
+
+
+.ShippingAddress_box234 {
+    position: relative;
+    width: 30%;
+    height: 2.8vw;
+    background: #FB2E86;
+    border-radius: 2px;
+    font-family: 'Josefin Sans';
+    font-size: 1.1vw;
+    line-height: 1.6vw;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    margin-top: 3.5vw;
+    margin-left: 1.62vw;
+}

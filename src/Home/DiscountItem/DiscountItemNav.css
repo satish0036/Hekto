@@ -1,0 +1,62 @@
+.discount_item_nav {
+  position: absolute;
+  width: 364px;
+  height: 22px;
+  left: 780px;
+  top: 4350px;
+  /* border: 2px solid gray; */
+}
+.discount_item_nav_wood_chair {
+  position: absolute;
+  width: 95px;
+  height: 22px;
+  left: 0px;
+  /* top: 4350px; */
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  /* pink */
+
+  color: #fb2e86;
+}
+.discount_item_nav_plastic_chair {
+  position: absolute;
+  width: 98px;
+  height: 22px;
+  left: 125px;
+  /* top: 4733px; */
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  /* Text */
+
+  color: #151875;
+}
+.discount_item_nav_sofa_collection {
+  position: absolute;
+  width: 121px;
+  height: 22px;
+  left: 255px;
+  /* top: 4733px; */
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  /* Text */
+
+  color: #151875;
+}

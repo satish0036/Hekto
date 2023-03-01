@@ -1,0 +1,40 @@
+.NotFoundLayout{
+  position: relative;
+  width: 100%;
+  height: 80%;
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  
+
+}
+.NotFound_img1 {
+
+  width: 41%;
+  height: 43%;
+  left: 504px;
+  top: 90px;
+  object-fit: contain;
+}
+
+
+.NotFound_box1 {
+  /* position: absolute; */
+  width: 10.7vw;
+  height: 2.8vw;
+  object-fit: contain;
+  /* left: 878px;
+  top: 680px; */
+  background: #fb2e86;
+  border-radius: 3px;
+  font-family: "Josefin Sans";
+  font-size: 1vw;
+  line-height: 1.6vw;
+  justify-content: center;
+  color: #ffffff;
+  cursor: pointer;
+  border: none;
+}
+

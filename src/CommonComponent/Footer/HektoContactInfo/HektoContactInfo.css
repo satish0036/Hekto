@@ -1,0 +1,113 @@
+.footer_hekto {
+    position: absolute;
+    left: 16.15%;
+    right: 78.12%;
+    top: 17.86%;
+    bottom: 75%;
+  
+    font-family: "Josefin Sans";
+    font-size: 38px;
+    line-height: 45px;
+  /* border: 2px solid red; */
+    color: #000000;
+  }
+  .footer_rectangle_box1 {
+    position: absolute;
+    left: 16.09%;
+    right: 64.27%;
+    top: 30.83%;
+    bottom: 60.9%;
+    padding-left: 20px;
+    /* white */
+    border: none;
+    background: #ffffff;
+    opacity: 0.45;
+    border-radius: 3px;
+  }
+  .footer_rectangle_box2 {
+    position: absolute;
+    left: 309px;
+    /* right: ; */
+    top: 150px;
+    /* bottom: 62.97%; */
+  
+    /* paragraph text */
+  
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+  
+    /* sub text color */
+  
+    color: #8a8fb9;
+  }
+  .footer_rectangle_box3 {
+    position: absolute;
+    left: 28.59%;
+    right: 64.38%;
+    top: 31.39%;
+    bottom: 61.28%;
+    color: #eeeffb;
+    border: none;
+    cursor: pointer;
+    background: #fb2e86;
+    border-radius: 3px;
+  }
+  .footer_rectangle_box4 {
+    position: absolute;
+    left: 30.62%;
+    right: 66.46%;
+    top: 33.46%;
+    bottom: 62.97%;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    /* bg shade */
+  
+    color: #eeeffb;
+  }
+  .footer_hekto_text1 {
+    position: absolute;
+    left: 16.04%;
+    right: 79.38%;
+    top: 43.8%;
+    bottom: 52.63%;
+  
+    /* paragraph text */
+  
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+  
+    /* sub text color */
+  
+    color: #8a8fb9;
+  }
+  .footer_hekto_text2 {
+    position: absolute;
+    left: 16.04%;
+    right: 63.07%;
+    top: 49.25%;
+    bottom: 47.18%;
+  
+    /* paragraph text */
+  
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+  
+    /* sub text color */
+  
+    color: #8a8fb9;
+  }

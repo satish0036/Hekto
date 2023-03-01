@@ -1,0 +1,131 @@
+.Checkout_box11 {
+    position: absolute;
+    width: 20%;
+    height: 18.48vw;
+    left: 62%;
+    top: 75.84vw;
+    /* top: 1165px; */
+    /* border: 2px solid rgba(23, 69, 220, 0.782); */
+    background: #F4F4FC;
+    border-radius: 3px;
+}
+@media screen and (max-device-width:640px), screen and (max-width:640px)  {
+    .Checkout_box11{
+        position: relative;
+        width: 50%;
+        /* height: 567px; */
+        left: 20%;
+        top: 1px;
+        display: grid;
+        grid-template-columns: auto;
+        /* border: 2px solid red; */
+    }
+  }
+.SubtotalsPrice1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2.21vw 1.49vw .84vw ;
+}
+.Checkout_box1_text11 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.2vw;
+    line-height: 1.8vw;
+    color: #1D3178;
+}
+
+.Checkout_box1_text21 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 1.8vw;
+    color: #15245E;
+}
+
+.Checkout_box1_line11 {
+    position: relative;
+    width: 80%;
+ 
+    border: 1px solid #E8E6F1;
+    margin: 0% 10%;
+}
+.TotalPrice1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2.21vw 1.49vw .84vw ;
+}
+
+.Checkout_box1_text31 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.2vw;
+    line-height: 1.8vw;
+    color: #1D3178;
+}
+
+.Checkout_box1_text41 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 1.8vw;
+    color: #15245E;
+}
+
+.Checkout_box1_line21 {
+    position: relative;
+    width: 80%;
+    height: 0px;
+    border: 1px solid #E8E6F1;
+    margin: 0% 10%;
+}
+.checkbox_line1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 1.75vw 1.49vw;
+    gap: .3vw;
+}
+.Checkout_box1_check1 {
+    position: relative;
+    width: .65vw;
+    /* height: 10px; */
+    border-radius: 3px;
+}
+
+.Checkout_box1_text51 {
+    position: relative;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: .8vw;
+    line-height: 1vw;
+
+    color: #8A91AB;
+}
+
+.Checkout_box21 {
+    position: relative;
+    width: 80%;
+    height: 2.6vw;
+    background: #19D16F;
+    border-radius: .2vw;
+    margin: 0vw 1.49vw;
+    border: none;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: .8vw;
+    line-height: 1.2vw;
+    color: #FFFFFF;
+}
+

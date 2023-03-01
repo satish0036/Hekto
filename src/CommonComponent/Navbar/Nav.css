@@ -1,0 +1,146 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+.nav_layout11 {
+  position: relative;
+  height: 40px;
+  display: flex;
+  border: 2px solid red;
+  margin: 19px 0px;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.navbar-brand{
+  font-family: 'Josefin Sans' !important;
+  font-size: 34px !important;
+  line-height: 40px !important;
+  
+  color: #0D0E43 !important;
+}
+.nav-link {
+  color: #0D0E43 !important;
+}
+
+.nav-link:hover {
+  color: #FB2E86 !important;
+  text-decoration: none !important;
+}
+.nav-link:focus {
+  color: #FB2E86 !important;
+  text-decoration: none !important;
+}
+.nav-link:active {
+  color: #FB2E86 !important;
+  text-decoration: none !important;
+}
+.nav-link{
+  text-decoration: none !important;
+}
+
+
+
+
+.nav_layout_Hekto {
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+
+}
+
+.nav_layout_Hekto_home {
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  justify-content: space-around;
+  align-items: center;
+  color: #0D0E43;
+}
+
+.NavColour:hover{
+  color: #FB2E86;
+}
+.NavColour:active{
+  color: #FB2E86;
+}
+.NavColour:focus{
+  color: #FB2E86;
+}
+
+.NavColour{
+  color: #0D0E43;
+}
+.NavColour:link{
+  text-decoration: none !important;
+}
+
+
+.nav_layout_Hekto_home_gap {
+  display: flex;
+  flex-direction: row;
+  gap: 0.1rem;
+}
+
+.nav_layout_nav {
+  display: flex;
+  flex-direction: row;
+  width: 317px;
+  height: 40x;
+}
+.pp{font-family: 'Josefin Sans';
+  font-size: 34px;
+  line-height: 40px;
+  
+  color: #0D0E43;
+}
+.btn_color{
+    color: white;
+    background: #FB2E86;
+    border: none;
+  }
+.btn{
+display: flex;
+  align-items: center;
+  background: #FB2E86;
+}
+  .SrchBxcmp{
+    display: flex;
+    flex-direction: row;
+    /* / border: 2px solid red; / */
+  }
+
+  .SrchBx{
+    border: 2px solid #E7E6EF;
+    border-radius:none;
+  }
+
+  .srchBtn{
+    background: #FB2E86 !important;
+    border: none !important;
+    border-radius: none !important;
+
+  }
+
+  .btn{border-radius: none;}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

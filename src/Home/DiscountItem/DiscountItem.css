@@ -1,0 +1,202 @@
+.DiscountItem_layout{
+  position: relative;
+  width: 100%;
+  height: 39.5vw;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 7vw;
+}
+.discount_item {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size: 2.6vw;
+  line-height: 3.1vw;
+  color: #151875;
+}
+.DiscountItem_nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1.4vw;
+  margin-top: 2vw;
+}
+.DiscountItem_nav_name1{
+  position: relative;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 1.17vw;
+line-height: 1.43vw;
+color: #151875;
+
+
+}
+.DiscountItem_cart{
+  margin-top: 1.5vw;
+  width: 60%;
+  height: 31vw;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: row;
+}
+.DiscountItem_cart_left{
+  width: 50%;
+  height: 100%;
+  /* border: 2px solid darkblue; */
+}
+
+
+.discount_item4_text1 {
+  position: relative;
+ 
+  font-family: "Josefin Sans";
+  font-size: 2vw;
+  line-height: 3vw;
+  letter-spacing: 0.015em;
+  color: #151875;
+  margin-top: 3vw;
+}
+.discount_item4_text2 {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size: 1.36vw;
+  line-height: 1.5vw;
+  letter-spacing: 0.015em;
+  color: #fb2e86;
+  margin-top: 1vw;
+}
+.discount_item4_text3 {
+  position: relative;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.02vw;
+  line-height: 1.8vw;
+  /* or 176% */
+
+  letter-spacing: 0.02em;
+
+  color: #b7bacb;
+}
+.discount_item4_text4_check{
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  gap: 2vw;
+  align-items: center;
+  margin-top: 1vw;
+}
+.discount_item4_text4 {
+  position: relative;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: .9vw;
+  line-height: 1.8vw;
+
+  letter-spacing: 0.02em;
+
+  color: #b8b8dc;
+}
+.discount_item4_text5 {
+  position: relative;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: .9vw;
+  line-height: 1.8vw;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.02em;
+
+  color: #b8b8dc;
+}
+.discount_item4_text4_check2{
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  gap: 3.7vw;
+  align-items: center;
+  margin-top: 1vw;
+}
+.discount_item4_text6 {
+  position: relative;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: .9vw;
+  line-height: 1.8vw;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.02em;
+
+  color: #b8b8dc;
+}
+.discount_item4_text7 {
+  position: relative;
+
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: .9vw;
+  line-height: 1.8vw;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.02em;
+
+  color: #b8b8dc;
+}
+.discount_item4_text8_shop{
+  position: relative;
+  height: 3.3vw;
+width: 10vw;
+
+border-radius: 2px;
+font-family: 'Josefin Sans';
+font-size: 1.1vw;
+line-height: 1.3vw;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+background: #FB2E86;
+border-radius: 2px;
+margin-top: 2vw;
+border: none;
+}
+
+
+
+
+.DiscountItem_cart_right{
+  width: 50%;
+  height: 100%;
+  /* border: 2px solid darkblue; */
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  position: relative;
+}
+
+.discount_item4_ellipse {
+  position: absolute;
+  top: 40px;
+  /* border: 2px solid red; */
+
+  width: 70%;
+  height: 65%;
+  /* background: #52071e; */
+  /* border-radius: 50%; */
+}
+.discount_item4_img1 {
+  position: relative;
+  z-index: 2;
+  opacity: 22;
+  width: 100%;
+ height: 80%;
+}

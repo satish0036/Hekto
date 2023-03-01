@@ -1,0 +1,87 @@
+.FeaturedProduct_layout{
+width: 100%;
+height: auto;
+/* border: 2px solid red; */
+position: relative;
+display: flex;
+flex-direction: column;
+/* justify-content: center; */
+align-items: center;
+align-items: center;
+margin-top: 7vw;
+}
+
+.caro118{
+  position: relative;
+width: 62%;
+height: auto;
+background: #ffffff;
+/* border :2px solid red; */
+margin-top: 2.5vw;
+}
+.fp {
+  position: relative;
+  font-family: "Josefin Sans";
+  font-size: 2.7vw;
+  line-height: 3vw;
+  color: #1a0b5b;
+}
+.slider_color_p {
+  position: absolute;
+  width: 24px;
+  height: 4px;
+  left: 915px;
+  top: 1519px;
+
+  background: #fb2e86;
+ 
+  border-radius: 10px;
+}
+.slider_color_q {
+  position: absolute;
+  width: 16px;
+  height: 4px;
+  left: 946px;
+  top: 1519px;
+
+  background: #febad7;
+  border-radius: 10px;
+}
+.slider_color_r {
+  position: absolute;
+  width: 16px;
+  height: 4px;
+  left: 968px;
+  top: 1519px;
+  
+  background: #febad7;
+  border-radius: 10px;
+}
+.slider_color_s {
+  position: absolute;
+  width: 16px;
+  height: 4px;
+  left: 990px;
+  top: 1519px;
+
+  background: #febad7;
+  border-radius: 10px;
+}
+
+button.rec.rec-arrow {
+  visibility: hidden;
+
+}
+
+button.rec-dot {
+  width: 33px;
+  height: 3px;
+  border-radius: 0px;
+  background-color: #fb2e86;
+  border: 2px solid #fb2e86;
+ 
+
+  /* box-shadow: 0 0 0px 0px rgba(235, 16, 16, 0.5); */
+}
+
+

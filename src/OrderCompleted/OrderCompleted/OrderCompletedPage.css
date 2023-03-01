@@ -1,0 +1,127 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+.OrderCompletedPage_layout{
+    position: relative;
+    height: auto;
+    width: 100%;
+    /* border: 2px solid red; */
+   
+    display: flex;
+    justify-content:center;
+    align-items:flex-end;
+    margin-top: 7vw;
+}
+.CompletedPage_layout2{
+    position: relative;
+    width: 58%;
+    height: 30vw;
+    /* border: 2px solid rgb(63, 120, 85); */
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+}
+.OrderCompletedPage_text1 {
+    position: absolute;
+
+    font-family: 'Josefin Sans';
+    font-size: 2.3vw;
+    line-height: 2.7vw;
+    text-align: center;
+    top: 6.7vw;
+    color: #101750;
+
+}
+
+.OrderCompletedPage_text2 {
+    position: absolute;
+    width: 70%;
+    height: 5.8vw;
+    top: 10.87vw;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1vw;
+    line-height: 1.4vw;
+    /* or 188% */
+
+    text-align: center;
+
+    color: #8D92A7;
+}
+
+.OrderCompletedPage_box1 {
+    position: absolute;
+    width: 13.5vw;
+    height: 3.8vw;
+    top: 18.29vw;
+    background: #FF1788;
+    border-radius: 3px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1vw;
+    line-height: 1.9vw;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+}
+
+
+
+.OrderCompletedPage_left_border {
+    position: absolute;
+    height: 23vw;
+    width: 1px;
+    top: 6.83;
+    left: 2.6vw;
+    border-left: 1px dashed #D2D1D1;
+}
+
+.OrderCompletedPage_bottom_border {
+    position: absolute;
+    width: 49.4vw;
+    height: 1px;
+    left: 2.66vw;
+    top: 26.69vw;
+    border-bottom: 1px dashed #D2D1D1;
+}
+
+.OrderCompletedPage_img1 {
+    position: absolute;
+    width: 7%;
+    /* height: 14%; */
+    left: 1%;
+    top: 2.47vw;
+    border: 2px solid red;
+
+}
+
+.OrderCompletedPage_img2 {
+    position: absolute;
+    width: 5.66vw;
+    width: 10%;
+    /* height: 80.44px; */
+    top: 0px;
+   
+
+}
+
+.OrderCompletedPage_img3 {
+    position: absolute;
+    /* width: 46.08px; */
+    width: 7%;
+    /* height: 36.91px; */
+    top: 9px;
+}
+
+.OrderCompletedPage_img4 {
+    position: absolute;
+    width: 4.5vw;
+    
+    left: 92%;
+    top: 24.08vw;
+    border: 2px solid rgb(202, 155, 155);
+
+}

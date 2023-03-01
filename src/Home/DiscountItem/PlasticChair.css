@@ -1,0 +1,156 @@
+.discount_item1 {
+    position: absolute;
+    width: 420px;
+    height: 270px;
+    left: 369px;
+    top: 4431px;
+    background: #fff6fb;
+    /* shadow */
+  
+    box-shadow: 0px 8px 40px rgba(49, 32, 138, 0.05);
+    /* border: 2px solid gray; */
+  }
+  .discount_item1_text1 {
+    position: absolute;
+    width: 269px;
+    height: 26px;
+    left: 12px;
+    top: 34px;
+  
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+  
+    /* Text */
+  
+    color: #151875;
+  }
+  
+  .discount_item1_text2 {
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 25px;
+    top: 71px;
+  
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    text-decoration-line: underline;
+  
+    /* Accent */
+  
+    color: #fb2e86;
+  }
+  .discount_item1_img {
+    position: absolute;
+    width: 213px;
+    height: 207px;
+    left: 201px;
+    top: 61px;
+  }
+  .discount_item2 {
+    position: absolute;
+    width: 420px;
+    height: 270px;
+    left: 831px;
+    top: 4431px;
+    background: #eeeffb;
+    /* shadow */
+  
+    box-shadow: 0px 8px 40px rgba(49, 32, 138, 0.05);
+    /* border: 2px solid gray; */
+  }
+  .discount_item2_img {
+    position: absolute;
+    width: 312px;
+    height: 173px;
+    left: 102px;
+    top: 95px;
+  }
+  .discount_item3 {
+    position: absolute;
+    width: 267px;
+    height: 270px;
+    left: 1278px;
+    top: 4431px;
+    /* border: 2px solid gray; */
+  }
+  .discount_item3_box1 {
+    position: absolute;
+    width: 267px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(0deg, #ffffff, #ffffff), #ffffff;
+    filter: drop-shadow(0px 8px 40px rgba(49, 32, 138, 0.05));
+    /* border: 2px solid red; */
+  }
+  .discount_item3_box2 {
+    position: absolute;
+    width: 267px;
+    height: 74px;
+    left: 0px;
+    top: 94px;
+    background: linear-gradient(0deg, #ffffff, #ffffff), #ffffff;
+    filter: drop-shadow(0px 8px 40px rgba(49, 32, 138, 0.05));
+    /* border: 2px solid red; */
+  }
+  .discount_item3_box3 {
+    position: absolute;
+    width: 267px;
+    height: 74px;
+    left: 0px;
+    top: 190px;
+    background: linear-gradient(0deg, #ffffff, #ffffff), #ffffff;
+    filter: drop-shadow(0px 8px 40px rgba(49, 32, 138, 0.05));
+    /* border: 2px solid red; */
+  }
+  .discount_item3_img1 {
+    height: 71px;
+    width: 64px;
+    left: 21px;
+    top: 2px;
+    border-radius: 0px;
+  }
+  .discount_item3_text1 {
+    position: absolute;
+    left: 43.45%;
+    right: 0%;
+    top: 28.38%;
+    bottom: 50%;
+  
+    /* button text */
+  
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+  
+    /* Text */
+  
+    color: #151875;
+  }
+  .discount_item3_price1 {
+    position: absolute;
+    left: 43.45%;
+    right: 42.7%;
+    top: 56.76%;
+    bottom: 27.03%;
+  
+    /* price cut */
+  
+    font-family: "Josefin Sans";
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    text-decoration-line: line-through;
+  
+    /* Text */
+  
+    color: #151875;
+  }
